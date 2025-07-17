@@ -21,7 +21,7 @@
 | [🧠 Brain Tumor Detection](https://github.com/Adarsh-sri-1805/Group_11_Brain_tumor_detection) | Classifies brain MRI scans for tumor presence using CNN. |
 | [🧠 Brain Tumor Detection (Alt)](https://github.com/Adarsh-sri-1805/202401100300013_Brain_tumor_detection) | Another version of the brain tumor detection model. |
 | [🖼️ Image Classification](https://github.com/Adarsh-sri-1805/202401100300013_IMAGE-CLASSIFICATION) | Image classification project using deep learning. |
-| [🏃 FitSpark](https://github.com/Adarsh-sri-1805/FITSPARK) *(also on [Aanjneya007/FITSPARK](https://github.com/Aanjneya007/FITSPARK))* | Smart fitness and health tracker for users focused on wellness. |
+| [🏃 FitSpark](https://github.com/Adarsh-sri-1805/FITSPARK) (https://github.com/Aanjneya007/FITSPARK))* | Smart fitness and health tracker for users focused on wellness. |
 | [👨‍💻 Personal ML Notebook](https://github.com/Adarsh-sri-1805/AdarshSrivastava_202401100300013) | Personal notebook repo with various ML experiments. |
 
 ---
@@ -30,7 +30,7 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn)
 
