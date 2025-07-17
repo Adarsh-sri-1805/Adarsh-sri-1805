@@ -21,7 +21,7 @@
 | [🧠 Brain Tumor Detection](https://github.com/Adarsh-sri-1805/Group_11_Brain_tumor_detection) | Classifies brain MRI scans for tumor presence using CNN. |
 | [🧠 Brain Tumor Detection (Alt)](https://github.com/Adarsh-sri-1805/202401100300013_Brain_tumor_detection) | Another version of the brain tumor detection model. |
 | [🖼️ Image Classification](https://github.com/Adarsh-sri-1805/202401100300013_IMAGE-CLASSIFICATION) | Image classification project using deep learning. |
-| [🏃 FitSpark](https://github.com/Adarsh-sri-1805/FITSPARK) (https://github.com/Aanjneya007/FITSPARK))* | Smart fitness and health tracker for users focused on wellness. |
+| [🏃 FitSpark](https://github.com/Adarsh-sri-1805/FITSPARK)| Smart fitness and health tracker for users focused on wellness. |
 | [👨‍💻 Personal ML Notebook](https://github.com/Adarsh-sri-1805/AdarshSrivastava_202401100300013) | Personal notebook repo with various ML experiments. |
 
 ---
