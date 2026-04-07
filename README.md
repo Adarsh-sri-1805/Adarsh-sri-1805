@@ -1,53 +1,59 @@
-## 👋 Hi there, I'm Adarsh Srivastava!
+👋 Hi, I'm Adarsh Srivastava
 
-🎓 I'm a B.Tech student passionate about building real-world tech solutions — from AI-powered health apps to mobile price prediction and smart fitness systems.
+🎓 B.Tech Student | 💡 AI & Full-Stack Developer | 🚀 Building Real-World Intelligent Systems
 
----
+I focus on building practical, scalable AI-powered applications — combining machine learning, backend systems, and clean user interfaces. My work spans healthcare AI, financial intelligence, NLP systems, and real-time data applications.
 
-### 🌱 Currently Exploring:
-- 🧠 Machine Learning & Deep Learning
-- 💻 Full Stack Web Development
-- 🔎 Data Structures & Algorithms (solving daily on LeetCode)
-- 🚀 Model deployment using Streamlit and Firebase
+🌱 Current Focus
+🧠 Machine Learning, Deep Learning & NLP
+💻 Full Stack Development (MERN – in progress)
+🔎 Data Structures & Algorithms (LeetCode practice)
+⚡ Real-time AI systems & deployment (Streamlit, FastAPI, Firebase)
+🛰️ Exploring AI + real-world impact projects (AgriTech, FinTech)
+🛠️ Featured Projects
+Project	Description
+🤖 SIA+ (Support Insight Assistant)
+	AI chatbot for customer sentiment understanding with contextual response generation.
+📊 TradeNest (In Progress)	AI-powered financial insights platform with news summarization and intelligent dashboards.
+📱 Mobile Price Range Prediction
+	ML model predicting smartphone price categories based on specifications.
+🕵️ FakeXpose
+	Fake news detection using NLP techniques and classification models.
+📈 Course Completion Predictor
+	Predicts likelihood of course completion using behavioral data.
+🧠 Brain Tumor Detection
+	CNN-based MRI image classification for tumor detection.
+🖼️ Image Classification
+	Deep learning-based image classification system.
+📓 ML Experiments Notebook
+	Collection of ML experiments, models, and learning implementations.
+🚀 Key Highlights
+🔹 Built SIA+, an AI chatbot for sentiment-aware assistance
+🔹 Developing TradeNest, integrating AI news summarization + financial insights
+🔹 Experience with end-to-end ML pipeline: data → model → deployment
+🔹 Hands-on with real-world problem-solving projects
+🔹 Strong focus on scalable system thinking + product mindset
+🔧 Tech Stack
 
----
+Languages:
+Python • C++ • C
 
-### 🛠️ Featured Projects  
-| Project | Description |
-|--------|-------------|
-| [📱 Mobile Price Range Prediction](https://github.com/Adarsh-sri-1805/Mobile_price_range-prediction) | Predicts mobile price category using ML techniques. |
-| [🕵️ FakeXpose](https://github.com/Adarsh-sri-1805/Fakexpose) | Fake news detection system using Natural Language Processing. |
-| [📈 Online Course Completion Predictor](https://github.com/Adarsh-sri-1805/03_Predict-Online-Learning-Completion-_202401100300013) | Predicts course completion likelihood based on user activity. |
-| [🧠 Brain Tumor Detection](https://github.com/Adarsh-sri-1805/Group_11_Brain_tumor_detection) | Classifies brain MRI scans for tumor presence using CNN. |
-| [🧠 Brain Tumor Detection (Alt)](https://github.com/Adarsh-sri-1805/202401100300013_Brain_tumor_detection) | Another version of the brain tumor detection model. |
-| [🖼️ Image Classification](https://github.com/Adarsh-sri-1805/202401100300013_IMAGE-CLASSIFICATION) | Image classification project using deep learning. |
-| [🏃 FitSpark](https://github.com/Adarsh-sri-1805/FITSPARK)| Smart fitness and health tracker for users focused on wellness. |
-| [👨‍💻 Personal ML Notebook](https://github.com/Adarsh-sri-1805/AdarshSrivastava_202401100300013) | Personal notebook repo with various ML experiments. |
+Machine Learning & AI:
+scikit-learn • Pandas • NumPy • NLP • Deep Learning (CNN basics)
 
----
+Development & Tools:
+Streamlit • FastAPI • Firebase • Git & GitHub
 
-### 🔧 Tech Stack  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn)
+Currently Learning:
+MERN Stack • Advanced Deep Learning • System Design
 
----
+📈 GitHub Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Adarsh-sri-1805&show_icons=true&theme=tokyonight" height="165"> <img src="https://github-readme-streak-stats.herokuapp.com?user=Adarsh-sri-1805&theme=tokyonight&hide_border=false" height="165"> </p>
+📫 Connect with Me
 
-### 📈 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Adarsh-sri-1805&show_icons=true&theme=tokyonight" height="165">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Adarsh-sri-1805&theme=tokyonight&hide_border=false" height="165">
-</p>
 
----
 
-### 📫 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/adarsh-srivastava-698723275)  
-[![Gmail](https://img.shields.io/badge/-adarsh.email@example.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adarsh.email@example.com)
 
----
+⚡ Personal Motto
 
-> _"Stay curious. Build boldly. Learn endlessly."_
+"Stay curious. Build impactful systems. Keep leveling up."
